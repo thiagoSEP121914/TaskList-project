@@ -1,9 +1,9 @@
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { useState } from "react";
-import type { IProject } from "@/assets/interfaces/IProject";
+import type { IProject } from "@/interfaces/IProject";
 
-const list = [""];
+const list: string[] = [];
 
 interface MainLayoutProps {
   project: IProject;
