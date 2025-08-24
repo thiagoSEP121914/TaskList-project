@@ -19,9 +19,7 @@ Aplicação desenvolvida em **React + TypeScript** baseada no curso do _Maximili
 
 ## Demonstração
 
-## Demonstração
+![tela1](public/tela1.png)
+![tela2](public/tela2.png)
 
-![tela1](/tela1.png)
-![tela2](/tela2.png)
-
-![Demonstração](/demo.gif)
+![Demonstração](public/demo.gif)
